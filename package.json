@@ -1,0 +1,35 @@
+{
+  "name": "grunt-docco-xt",
+  "description": "Grunt plugin for docco-xt.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/gonsfx/grunt-docco-xt",
+  "author": {
+    "name": "Christoph Werner",
+    "email": "gonsfx@googlemail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gonsfx/grunt-docco-xt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gonsfx/grunt-docco-xt/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/gonsfx/grunt-docco-xt/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "docco-xt": "~0.1.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "keywords": [
+    "grunt", "plugin", "docco", "docco-xt", "documentation", "generation"
+  ]
+}
