@@ -71,7 +71,8 @@ doccoXT: {
 
 ## Release History
 
- * 2014-01-03   v0.1.0   Initial release
+ * 2014-01-03   v0.1.0   Initial release.
+ * 2014-01-06   v0.1.1   Use v0.1.1 of docco-xt.
 
 
 
