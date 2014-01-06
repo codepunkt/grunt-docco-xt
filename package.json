@@ -24,7 +24,7 @@
     "node": "*"
   },
   "dependencies": {
-    "docco-xt": "~0.1.0"
+    "docco-xt": "~0.1.1"
   },
   "devDependencies": {
     "grunt": "~0.4.0"
