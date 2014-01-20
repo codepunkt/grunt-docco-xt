@@ -1,7 +1,7 @@
 {
   "name": "grunt-docco-xt",
   "description": "Grunt plugin for docco-xt.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/gonsfx/grunt-docco-xt",
   "author": {
     "name": "Christoph Werner",
@@ -24,7 +24,7 @@
     "node": "*"
   },
   "dependencies": {
-    "docco-xt": "~0.1.1"
+    "docco-xt": "~0.1.2"
   },
   "devDependencies": {
     "grunt": "~0.4.0"
